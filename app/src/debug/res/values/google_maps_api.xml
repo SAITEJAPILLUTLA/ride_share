@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=2B:D5:A1:18:1F:0B:14:CD:09:E2:7A:C3:D1:9C:9B:55:C8:04:F6:94%3Bchillar.epizy.rideshare
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    chillar.epizy.rideshare
+
+    SHA-1 certificate fingerprint:
+    2B:D5:A1:18:1F:0B:14:CD:09:E2:7A:C3:D1:9C:9B:55:C8:04:F6:94
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyB1zG7F-Ym7IPrKew3H0q1AoZAyHbjR3jA</string>
+</resources>

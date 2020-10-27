@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">rideShare</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Languages">
+        <item>Bike</item>
+        <item>XUV</item>
+        <item>Bus</item>
+        <item>Jeep</item>
+        <item>Onroad NoHatchBack Car</item>
+        <item>OnRoad Car</item>
+    </string-array>
+    <string name="selected_item">Selected item:</string>
+</resources>
